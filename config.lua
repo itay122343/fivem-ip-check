@@ -1,4 +1,4 @@
 -- config.lua
 return {
-    targetIP = "YOUR_TARGET_IP"
+    targetIP = "181.214.214.119"
 }
